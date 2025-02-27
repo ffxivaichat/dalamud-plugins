@@ -1,0 +1,16 @@
+[
+	{
+        "Author": "xbh",
+        "Name": "AICHAT",
+        "Description": "与deepseek对话",
+        "InternalName": "AICHAT",
+        "AssemblyVersion": "0.0.0.1",
+        "DalamudApiLevel": 11,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/ffxivaichat/dalamud-plugins/master/plugins/aichat/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/ffxivaichat/dalamud-plugins/master/plugins/aichat/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/ffxivaichat/dalamud-plugins/master/plugins/aichat/latest.zip",
+        "DownloadCount": 0
+	}
+]
