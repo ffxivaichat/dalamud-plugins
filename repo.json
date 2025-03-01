@@ -4,7 +4,7 @@
         "Name": "AICHAT",
         "Description": "与deepseek对话",
         "InternalName": "AICHAT",
-        "AssemblyVersion": "0.0.0.8",
+        "AssemblyVersion": "0.0.0.9",
         "DalamudApiLevel": 11,
         "DownloadLinkInstall": "https://raw.githubusercontent.com/ffxivaichat/dalamud-plugins/master/plugins/aichat/latest.zip",
         "IsHide": false,
